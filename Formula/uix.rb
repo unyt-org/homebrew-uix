@@ -1,5 +1,5 @@
 
-class UIX < Formula
+class Uix < Formula
 	desc "UIX Fullstack Web App Framework"
 	homepage "https://unyt.org/uix"
 	url "https://dev.cdn.unyt.org/uix/run.sh"
