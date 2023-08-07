@@ -6,7 +6,7 @@ class Uix < Formula
 	version "0.0.1"
   
 	def install
-	  bin.install "run.sh"
+	  bin.install "run.sh" => "uix"
 	end
   end
   
